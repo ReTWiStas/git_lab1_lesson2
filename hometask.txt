@@ -1,0 +1,11 @@
+Ветка demo влита в ветку master, поэтому они ничем не различаются.
+
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge branches 'demo' and 'master'
+Merge branch 'buttons' into demo
+fix readme
+dots
+Merge branch 'boots' into release
+heat added
+init
